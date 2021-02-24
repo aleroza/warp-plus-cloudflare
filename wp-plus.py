@@ -10,7 +10,7 @@ os.system('cls' if os.name == 'nt' else 'clear')
 print("[-] With this script, you can getting unlimited GB on Warp+.")
 print("Original script was made by ALIILAPRO, site: aliilapro.github.io")
 
-referrer = input("[#] Enter the WARP+ ID:")
+referrer = input("[#] Enter the WARP+ ID: ")
 
 
 def genString(stringLength):
